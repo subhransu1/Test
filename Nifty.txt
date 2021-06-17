@@ -1,3 +1,4 @@
 Nifty50 is the index of NSE.
 It consist of top50 company of our country.
 
+sensex???
